@@ -13,8 +13,8 @@ export default function Logistica() {
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           <div className="relative rounded-2xl overflow-hidden aspect-[4/3]">
             <img
-              src="https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&q=80&w=800"
-              alt="Logistica de ultima milla"
+              src="/images/delivery.png"
+              alt="Logística de última milla"
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-navy-primary/30 to-transparent" />
